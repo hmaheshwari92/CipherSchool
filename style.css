@@ -1,0 +1,64 @@
+
+/* -----------account-page----------- */
+
+*{
+    background:rgb(206, 206, 255);
+}
+
+
+
+.form-container{
+    background: #fff;
+    opacity: 80%;
+    width: 300px;
+    height: 400px;
+    position: relative;
+    text-align: center;
+    padding: 20px 0;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+
+.form-container form{
+    background: #fff;
+    max-width: 300px;
+    padding: 0 20px;
+    position: absolute;
+    top: 130px;
+}
+
+form input{
+    width: 90%;
+    height: 30px;
+    margin: 10px 0;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+}
+
+form .btn{
+    width: 100%;
+    height: 50px;
+    background: rgb(83, 83, 255);
+    border: none;
+    border-radius: 5%;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+/* #LoginForm{
+    left: -300px;
+} */
+
+.circle{
+    border-radius: 50%;
+    background: blueviolet;
+}
+
+form a{
+    font-size: 12px;
+}
+
+
